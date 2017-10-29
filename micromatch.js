@@ -51,7 +51,7 @@ const findPairs = () => {
                     }
                 }
             }
-        }}, 2000);
+        }}, 0);
 };
 
 setInterval(function() {
