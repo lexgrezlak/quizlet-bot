@@ -17,7 +17,7 @@ When you are there, copy code from write.js and paste it into JavaScript Console
 Go to Quizlet site, log in and go to MATCH mode.
 When you are there, your link should be like https://quizlet.com/2319382/match - modify it to https://quizlet.com/2319382/micromatch.
 Then just simply copy and paste micromatch.js code into JavaScript Console (F12 shortcut on Google Chrome - Windows). 
-###### You have to click some blank area to activate bot.
+##### You have to click some blank area to activate bot.
 It's possible to achieve up to 3-5s high score
 
 micromatch.js may not be always correct (like 80% correct, if it fails, refresh the website and paste code again).
