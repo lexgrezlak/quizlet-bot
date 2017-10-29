@@ -10,7 +10,7 @@ If your school uses Quizlet - you can use it to get some good grades.
 
 #### write.js
 
-Go to Quizlet site, log in and go to WRITE mode.
+Go to quizlet.com, log in and go to WRITE mode.
 When you are there, copy code from write.js and paste it into JavaScript Console (F12 shortcut on Google Chrome - Windows)
 
 #### micromatch.js
